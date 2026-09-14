@@ -1,4 +1,4 @@
-# <div align="center"> Home_Loan_Approval
+# <div align="center"> Home Loan Approval
 ### Progetto di **Data Mining** con task di classificazione. Il modello punta a predirre l'approvazione o meno di un prestito tramite algortmi di Machine Learning. 
 
 ---
