@@ -1,5 +1,5 @@
 # <div align="center"> Home Loan Approval
-### Progetto di **Data Mining** con task di classificazione. Il modello punta a predirre l'approvazione o meno di un prestito tramite algortmi di Machine Learning. 
+### Progetto di **Data Mining** con task di classificazione. Il progetto punta a mettere a confronto diversi modelli con il compito di predirre l'approvazione o meno di un prestito tramite algortmi di Machine Learning. 
 
 ---
 ## 🎯 Contenuto
